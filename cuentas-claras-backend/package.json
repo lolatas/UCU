@@ -1,0 +1,9 @@
+{
+  "name": "cuentas-claras-backend",
+  "version": "0.1.0",
+  "private": true,
+  "description": "API de Cuentas Claras (LLAB) — prueba conceptual sobre Neon + Vercel.",
+  "dependencies": {
+    "@neondatabase/serverless": "^0.10.4"
+  }
+}
